@@ -1,10 +1,10 @@
 # courseaWebDev
-testing for Web Dev course
-
+# # Testing for Web Dev course
+# # I will be making countless edits as I am learning to use GitHub
 ***
 
-# this is my introduction to github
-# this is my first created repo
-# Coursera Web Development course
-# HTML CSS JavaScript
+# # This is my introduction to github
+# # This is my first created repo
+# # Coursera Web Development course
+# # HTML CSS JavaScript
 #
