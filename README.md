@@ -1,4 +1,4 @@
-# courseaWebDev
+# courseraWebDev
 # # Testing for Web Dev course
 # # I will be making countless edits as I am learning to use GitHub
 ***
